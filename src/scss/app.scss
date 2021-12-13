@@ -29,5 +29,5 @@ html {
 }
 
 .emoji{
-  @include shadow;
+  @include shadow(20);
 }
